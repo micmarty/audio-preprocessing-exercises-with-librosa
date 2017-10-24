@@ -11,3 +11,7 @@ My notebooks will be focused on preprocessing audio for neural network
 - matplotlib, numpy, ipython
 
 - jupyter for python 3 (I'm using Python 3.6)
+
+## How to open
+
+ Just click on some ```*.ipynb``` file.
